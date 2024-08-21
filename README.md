@@ -8,3 +8,10 @@ This data is used by the BugSigDBStats::getNcbiTaxonomyObo function and this fun
 was used for the BugSigDB paper [Figure 2](https://github.com/waldronlab/BugSigDBPaper/blob/3b4c917ebeafe2b02a0fa689cfea5ca03a534b6c/vignettes/Figure2.Rmd#L88-L92).
 
 Check the code in the onto.R file for the source of the data.
+
+
+## Information about the original source
+
+[NCBI Organismal Classification](https://obofoundry.org/ontology/ncbitaxon.html)
+
+[Build for NCBITaxon Ontology](https://github.com/obophenotype/ncbitaxon)
