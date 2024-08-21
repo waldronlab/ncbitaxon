@@ -7,7 +7,7 @@ This resource was created because a vignette in the waldronlab/BugSigDBStats rep
 This data is used by the BugSigDBStats::getNcbiTaxonomyObo function and this function
 was used for the BugSigDB paper [Figure 2](https://github.com/waldronlab/BugSigDBPaper/blob/3b4c917ebeafe2b02a0fa689cfea5ca03a534b6c/vignettes/Figure2.Rmd#L88-L92).
 
-The onto.R file contains the code used to generate the data.
+The onto.R file contains the code used to generate the data (R object).
 
 ## Information about the original source
 
